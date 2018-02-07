@@ -1,0 +1,102 @@
+.home {
+  width: 100vw;
+  display: block;
+  justify-content: center;
+  max-width: 800px;
+  margin: auto;
+  padding: 70px 0 150px 0;
+  color: white;
+}
+
+.about {
+  width: 100vw;
+  display: block;
+  justify-content: center;
+  max-width: 800px;
+  margin: auto;
+  padding: 70px 0 150px 0;
+  color: white;
+}
+
+.project {
+
+  color: white;
+}
+
+.experience {
+  width: 100vw;
+  display: block;
+  justify-content: center;
+  max-width: 800px;
+  margin: auto;
+  padding: 70px 0 150px 0;
+  color: white;
+  text-align: center;
+}
+
+li {
+  text-align: left;
+}
+
+
+.title {
+  text-align: center;
+}
+
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.author {
+  font-weight: bold;
+}
+.nav-item {
+  font-size: 20px;
+  font-weight: bold;
+}
+.iconNav {
+  border: 1px solid white;
+  width: 250px;
+  height: 400px;
+  padding:  15px 25px 20px 20px;
+  margin: 20px;
+  border-radius: 10px;
+  text-align: center;
+  justify-content: center;
+  color: white;
+}
+.iconNav:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-decoration: none;
+  font-weight: bold;
+
+}
+
+.footer {
+margin-top: -10px;
+padding-top: -7px;
+margin-bottom: -7px;
+padding-bottom: -5px;
+font-size: 1.5em;
+
+}
+
+a {
+  padding: 0 30px 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.col-md-8{
+  text-align: center;
+  font-size: 0.5em;
+}
