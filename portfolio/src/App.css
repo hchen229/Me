@@ -111,9 +111,6 @@ a:hover {
 }
 
 @media only screen and (max-width: 500px) {
-  .footer {
-    font-size : 50%;
-  }
 
   a {
     font-size: 15px;
