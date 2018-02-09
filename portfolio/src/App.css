@@ -109,3 +109,14 @@ a:hover {
   text-align: center;
   font-size: 0.5em;
 }
+
+@media only screen and (max-width: 500px) {
+  .footer {
+    font-size : 50%;
+  }
+
+  a {
+    font-size: 15px;
+  }
+
+}
