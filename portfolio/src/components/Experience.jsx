@@ -9,7 +9,7 @@ const Experience = (props) => {
     <div className="experience">
     <br/><br/><br/>
       <h1 className='title'> Experience </h1><br/>
-        <h3> Real Estate Analyst </h3><br/>
+      {/*   <h3> Real Estate Analyst </h3><br/>
         <h4>Exit Realty Corp</h4><br/>
          <ul>
           <li>
@@ -41,6 +41,7 @@ const Experience = (props) => {
             Coordinated with other departments (Marketing, Sales Support and VIP Clients Department), in order to adjust or revise products according to the client feedback
           </li>
          </ul>
+         */}
 
 
     </div>
